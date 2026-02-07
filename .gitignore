@@ -1,0 +1,20 @@
+node_modules
+dist
+.DS_Store
+*.log
+.env
+.env.local
+.env.*.local
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+backend/venv/
+backend/hrms.db
+backend/static/
+
+# Render/Vercel build artifacts
+backend/static/
